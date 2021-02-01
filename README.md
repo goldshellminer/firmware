@@ -18,9 +18,9 @@ https://www.goldshell.com/hs5-miner/
   
 |     | HNS hashrate(GH/s)  |  SC hashrate(GH/s) | HNS wall power(W) | SC wall power(W) |  
 |  :----:  | :----: | :----:  | :----: |  :----: | 
-| HS5  | 2700 | 5400 | 2650 | 1320 |
-| HS3  | 2000 | 4000  | 2000  | 1000 |
-| HS3-SE  | 930 | 1860  | 930 | 460 |
+| HS5  | 2700 | 5400 | 2650 | 1500 |
+| HS3  | 2000 | 4000  | 2000  | 1100 |
+| HS3-SE  | 930 | 1860  | 930 | 520 |
   
 
 

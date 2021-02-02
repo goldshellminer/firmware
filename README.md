@@ -6,6 +6,8 @@ Here you can download updated firmware version for goldshell miners (HS3, HS3-SE
 With the new firmware version, all series miners will support mining Handshake(HNS) OR Siacoin(SC).  
 When mining SC, the hashrate will double and the power consumption will be only half as normal.
 
+Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81sc-algorithm-switching-tutorial/)
+
 HS3 Introduction:  
 https://www.goldshell.com/hs1-handshake-miner-intro/  
 
@@ -25,6 +27,7 @@ https://www.goldshell.com/hs5-miner/
 
 
 ## Firmware:  
+
 
 HS3: [firmware-Goldshell-HS3-2.0.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.0.8.cpb)
 

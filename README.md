@@ -9,13 +9,13 @@ When mining SC, the hashrate will double and the power consumption will be only 
 Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81sc-algorithm-switching-tutorial/)
 
 HS3 Introduction:  
-https://www.goldshell.com/hs1-handshake-miner-intro/  
+https://www.goldshell.com/hs3-miner-intro/  
 
 HS3-SE Introduction:  
-https://www.goldshell.com/hs1-plus-handshake-miner/
+https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/  
 
 HS5 Introduction:  
-https://www.goldshell.com/hs5-miner/
+https://www.goldshell.com/hs5-miner/  
 
   
 |     | HNS hashrate(GH/s)  |  SC hashrate(GH/s) | HNS wall power(W) | SC wall power(W) |  

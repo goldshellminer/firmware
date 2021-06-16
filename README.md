@@ -62,7 +62,9 @@ HS3-SE: [firmware-Goldshell-HS3SE-2.0.5.cpb](https://raw.githubusercontent.com/g
 
 HS5: [firmware-Goldshell-HS5-2.0.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.0.3.cpb)  
 
-HS-BOX: [firmware-Goldshell-HSBox-2.0.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6.cpb)
+HS-BOX (low fan speed): [firmware-Goldshell-HSBox-2.0.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6.cpb)  
+
+HS-BOX (high fan speed): [firmware-Goldshell-HSBox-2.0.6q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6q.cpb)
 
 ---
 CK5: [firmware-Goldshell-CK5-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.0.2.cpb)
@@ -71,7 +73,9 @@ CK5: [firmware-Goldshell-CK5-2.0.2.cpb](https://raw.githubusercontent.com/goldsh
 
 KD5: [firmware-Goldshell-KD5-2.0.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.0.1.cpb)
 
-KD-BOX: [firmware-Goldshell-KDBox-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.5.cpb)
+KD-BOX (low fan speed): [firmware-Goldshell-KDBox-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.5.cpb)  
+
+KD-BOX (high fan speed): [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb)
 
 ---
 

@@ -8,37 +8,53 @@ Here you can download updated firmware version for goldshell miners.
 
 Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81sc-algorithm-switching-tutorial/)
 
+
+## Dogecoin & Litecoin Miner
+
+
+|     |  Introduction |  Download | 
+|  :----:  | :----: | :----:  |
+| MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.0.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.0.1.cpb)  | 
+
+
+
+## Handshake & Siacoin Miner
+
+|     |  Introduction |  Download | 
+|  :----:  | :----: | :----:  |
+| HS5  | [Intro](https://www.goldshell.com/hs5-miner/ ) |  [firmware-Goldshell-HS5-2.0.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.0.4.cpb)  | 
+| HS3  | [Intro](https://www.goldshell.com/hs3-miner-intro/)   |  [firmware-Goldshell-HS3-2.0.9.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.0.9.cpb) | 
+| HS3-SE  |  [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)  |  [firmware-Goldshell-HS3SE-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.0.5.cpb) | 
+| HS-BOX  |  [Intro](https://www.goldshell.com/goldshell-hs-box/)  | low fan speed: [firmware-Goldshell-HSBox-2.0.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6.cpb) <br> high fan speed: [firmware-Goldshell-HSBox-2.0.6q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6q.cpb) | 
+
+
+
+## CKB Miner
+
+  
+
+|     |  Introduction |  Download | 
+|  :----:  | :----: | :----:  |
+| CK5  | [Intro](https://www.goldshell.com/ck5-ckb-miner/ ) | [firmware-Goldshell-CK5-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.0.2.cpb) | 
+
+
+## KDA Miner
+
+|     |  Introduction |  Download | 
+|  :----:  | :----: | :----:  |
+| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.0.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.0.1.cpb)| 
+| KD-BOX  | [Intro](https://www.goldshell.com/goldshell-kd-box/ ) | low fan speed: [firmware-Goldshell-KDBox-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.5.cpb) <br> high fan speed: [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb) |
+ 
+  
+  
+
+
+
 ---
-HS3 Introduction:  
-https://www.goldshell.com/hs3-miner-intro/  
-
-HS3-SE Introduction:  
-https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/  
-
-HS5 Introduction:  
-https://www.goldshell.com/hs5-miner/  
-
-HS-BOX Introduction:  
-https://www.goldshell.com/goldshell-hs-box/
-
----
-
-CK5 Introduction:  
-https://www.goldshell.com/ck5-ckb-miner/  
-
----
-
-KD-BOX Introduction:  
-https://www.goldshell.com/goldshell-kd-box/
-
-KD5 Introduction:  
-https://www.goldshell.com/kd5-kadena-miner/  
-
----
 
 
 
-### Enable hs series miner to mine siacoin
+## [HOWTO] Enable hs series miner to mine siacoin
 
 With the new firmware version, all hns-series miners will support mining Handshake(HNS) OR Siacoin(SC).  
 When mining SC, the hashrate will double and the power consumption will be only half as normal.
@@ -53,31 +69,8 @@ When mining SC, the hashrate will double and the power consumption will be only 
 
 Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81sc-algorithm-switching-tutorial/)
 
-## Firmware download link:  
 
----
-HS3: [firmware-Goldshell-HS3-2.0.9.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.0.9.cpb)
 
-HS3-SE: [firmware-Goldshell-HS3SE-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.0.5.cpb)
-
-HS5: [firmware-Goldshell-HS5-2.0.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.0.3.cpb)  
-
-HS-BOX (low fan speed): [firmware-Goldshell-HSBox-2.0.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6.cpb)  
-
-HS-BOX (high fan speed): [firmware-Goldshell-HSBox-2.0.6q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6q.cpb)
-
----
-CK5: [firmware-Goldshell-CK5-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.0.2.cpb)
-
----
-
-KD5: [firmware-Goldshell-KD5-2.0.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.0.1.cpb)
-
-KD-BOX (low fan speed): [firmware-Goldshell-KDBox-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.5.cpb)  
-
-KD-BOX (high fan speed): [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb)
-
----
 
 
 

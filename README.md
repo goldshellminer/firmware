@@ -14,7 +14,7 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.0.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.0.1.cpb)  | 
+| MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.0.2.cpb)  | 
 
 
 

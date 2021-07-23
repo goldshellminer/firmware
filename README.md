@@ -14,7 +14,7 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.0.2.cpb)  | 
+| MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.0.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.0.3.cpb)  | 
 
 
 
@@ -35,7 +35,7 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| CK5  | [Intro](https://www.goldshell.com/ck5-ckb-miner/ ) | [firmware-Goldshell-CK5-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.0.2.cpb) | 
+| CK5  | [Intro](https://www.goldshell.com/ck5-ckb-miner/ ) | [firmware-Goldshell-CK5-2.0.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.0.3.cpb) | 
 
 
 ## KDA Miner

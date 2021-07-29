@@ -42,7 +42,7 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.0.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.0.1.cpb)| 
+| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.0.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.0.2.cpb)| 
 | KD-BOX  | [Intro](https://www.goldshell.com/goldshell-kd-box/ ) | low fan speed: [firmware-Goldshell-KDBox-2.0.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.8.cpb) <br> high fan speed: [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb) |
  
   

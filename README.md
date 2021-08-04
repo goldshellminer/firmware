@@ -22,7 +22,7 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| HS5  | [Intro](https://www.goldshell.com/hs5-miner/ ) |  [firmware-Goldshell-HS5-2.0.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.0.4.cpb)  | 
+| HS5  | [Intro](https://www.goldshell.com/hs5-miner/ ) |  [firmware-Goldshell-HS5-2.0.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.0.5.cpb)  | 
 | HS3  | [Intro](https://www.goldshell.com/hs3-miner-intro/)   |  [firmware-Goldshell-HS3-2.0.12.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.0.12.cpb) | 
 | HS3-SE  |  [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)  |  [firmware-Goldshell-HS3SE-2.0.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.0.6.cpb) | 
 | HS-BOX  |  [Intro](https://www.goldshell.com/goldshell-hs-box/)  | low fan speed: [firmware-Goldshell-HSBox-2.0.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6.cpb) <br> high fan speed: [firmware-Goldshell-HSBox-2.0.6q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6q.cpb) | 

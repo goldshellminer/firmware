@@ -58,7 +58,7 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| STC-BOX  | TBD | [firmware-Goldshell-STCBox-2.1.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-STCBox-2.1.4.cpb)| 
+| STC-BOX  | TBD | [firmware-Goldshell-STCBox-2.1.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-STCBox-2.1.5.cpb)| 
 
 
 

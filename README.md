@@ -48,8 +48,8 @@ Docs: [Firmware Upgrade Guide](https://www.goldshell.com/2021/02/02/hns%e3%80%81
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
 | KD2  | [Intro](https://www.goldshell.com/kd2-kadena-miner/ ) | [firmware-Goldshell-KD2-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD2-2.1.0.cpb)| 
-| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.1.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.1.5.cpb)| 
-| KD-BOX  | [Intro](https://www.goldshell.com/goldshell-kd-box/ ) | low fan speed (quiet): [firmware-Goldshell-KDBox-2.1.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.1.1.cpb) <br> high fan speed (loud): [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb) |
+| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.1.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.1.6.cpb)| 
+| KD-BOX  | [Intro](https://www.goldshell.com/goldshell-kd-box/ ) | low fan speed (quiet): [firmware-Goldshell-KDBox-2.1.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.1.3.cpb) <br> high fan speed (loud): [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb) |
  
   
 ## LBC Miner

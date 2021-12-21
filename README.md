@@ -7,7 +7,10 @@ Here you can download updated firmware version for goldshell miners.
 
 ***No need to upgrade the firmware if everything is fine.**
 
-***Warning! Do not turn off the power and operate the miner when starting the firmware upgrade** 
+***Warning! Do not turn off the power and operate the miner when starting the firmware upgrade**  
+
+Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
+
 
 
 ## Dogecoin & Litecoin Miner

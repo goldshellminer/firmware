@@ -11,9 +11,9 @@ Here you can download updated firmware version for goldshell miners.
 
 Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
 
+Cloud Supported (version 2.2.0 or later): [Goldshell Hub](https://hub.goldshell.com/login)
 
-
-## Dogecoin & Litecoin Miner
+## Dogecoin & Litecoin Miner:www
 
 
 |     |  Introduction |  Download | 
@@ -21,7 +21,7 @@ Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
 | MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.1.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.1.4.cpb)  | 
 | x5  | [Intro]( https://www.goldshell.com/x5/ ) |  [firmware-Goldshell-x5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x5-2.1.0.cpb)  | 
 | LT5  | [Intro]( https://www.goldshell.com/lt5-doge-ltc-miner/ ) |  [firmware-Goldshell-LT5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5-2.1.0.cpb)  | 
-| LT5 Pro  | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |  [firmware-Goldshell-LT5Pro-2.1.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.1.3.cpb)  | 
+| LT5 Pro  | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |  [firmware-Goldshell-LT5Pro-2.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.0.cpb)  | 
 
 
 
@@ -29,7 +29,7 @@ Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| HS5  | [Intro](https://www.goldshell.com/hs5-miner/ ) |  [firmware-Goldshell-HS5-2.1.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.1.4.cpb)  | 
+| HS5  | [Intro](https://www.goldshell.com/hs5-miner/ ) |  [firmware-Goldshell-HS5-2.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.2.0.cpb)  | 
 | HS3  | [Intro](https://www.goldshell.com/hs3-miner-intro/)   |  [firmware-Goldshell-HS3-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.1.2.cpb) | 
 | HS3-SE  |  [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)  |  [firmware-Goldshell-HS3SE-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.1.2.cpb) | 
 | HS-BOX  |  [Intro](https://www.goldshell.com/goldshell-hs-box/)  | low fan speed: [firmware-Goldshell-HSBox-2.1.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.1.4.cpb) <br> high fan speed: [firmware-Goldshell-HSBox-2.0.6q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.0.6q.cpb) | 
@@ -42,7 +42,7 @@ Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
 
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
-| CK5  | [Intro](https://www.goldshell.com/ck5-ckb-miner/ ) | [firmware-Goldshell-CK5-2.1.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.1.4.cpb) | 
+| CK5  | [Intro](https://www.goldshell.com/ck5-ckb-miner/ ) | [firmware-Goldshell-CK5-2.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.2.0.cpb) | 
 | CK-BOX | [Intro](https://www.goldshell.com/goldshell-ck-box/ ) | [firmware-Goldshell-CKBox-2.1.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.1.1.cpb) | 
 
 
@@ -51,7 +51,7 @@ Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
 |     |  Introduction |  Download | 
 |  :----:  | :----: | :----:  |
 | KD2  | [Intro](https://www.goldshell.com/kd2-kadena-miner/ ) | [firmware-Goldshell-KD2-2.1.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD2-2.1.1.cpb)| 
-| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.1.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.1.6.cpb)| 
+| KD5  | [Intro](https://www.goldshell.com/kd5-kadena-miner/ ) | [firmware-Goldshell-KD5-2.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD5-2.2.0.cpb)| 
 | KD-BOX  | [Intro](https://www.goldshell.com/goldshell-kd-box/ ) | low fan speed (quiet): [firmware-Goldshell-KDBox-2.1.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.1.3.cpb) <br> high fan speed (loud): [firmware-Goldshell-KDBox-2.0.7q.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.0.7q.cpb) |
  
   

@@ -13,7 +13,7 @@ Guide: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
 
 Cloud Supported (version 2.2.0 or later): [Goldshell Hub](https://hub.goldshell.com/login)
 
-## Dogecoin & Litecoin Miner:www
+## Dogecoin & Litecoin Miner
 
 
 |     |  Introduction |  Download | 

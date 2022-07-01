@@ -19,13 +19,14 @@ Here you can download updated firmware version for goldshell miners.
 ## Dogecoin & Litecoin Miner
 
 
-|     |  Introduction |  Download | 
-|  :----:  | :----: | :----:  |
-| MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |  [firmware-Goldshell-MiniDOGE-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.2.1.cpb)  | 
-| x5  | [Intro]( https://www.goldshell.com/x5/ ) |  [firmware-Goldshell-x5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x5-2.1.0.cpb)  | 
-| LT5  | [Intro]( https://www.goldshell.com/lt5-doge-ltc-miner/ ) |  [firmware-Goldshell-LT5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5-2.1.0.cpb)  | 
-| LT5 Pro  | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |  [firmware-Goldshell-LT5Pro-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.1.cpb)  | 
-| LT6 | [Intro](https://www.goldshell.com/lt6/ ) |  [firmware-Goldshell-LT6-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT6-2.2.1.cpb)  | 
+|            |  Introduction |                                                                       Download                                                                        | 
+|:----------:| :----: |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  MiniDOGE  | [Intro](https://www.goldshell.com/goldshell-mini-doge/ ) |    [firmware-Goldshell-MiniDOGE-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.2.1.cpb)    | 
+| MiniDOGE Pro | [Intro](https://www.goldshell.com/minidoge-pro/ ) | [firmware-Goldshell-MiniDOGEPro-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGEPro-2.2.4.cpb) | 
+|     x5     | [Intro]( https://www.goldshell.com/x5/ ) |          [firmware-Goldshell-x5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x5-2.1.0.cpb)          | 
+|    LT5     | [Intro]( https://www.goldshell.com/lt5-doge-ltc-miner/ ) |         [firmware-Goldshell-LT5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5-2.1.0.cpb)         | 
+|  LT5 Pro   | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |      [firmware-Goldshell-LT5Pro-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.3.cpb)      | 
+|    LT6     | [Intro](https://www.goldshell.com/lt6/ ) |         [firmware-Goldshell-LT6-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT6-2.2.1.cpb)         | 
 
 
 
@@ -36,7 +37,7 @@ Here you can download updated firmware version for goldshell miners.
 | HS5  | [Intro](https://www.goldshell.com/hs5-miner/ ) |   [firmware-Goldshell-HS5-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.2.1.cpb)   | 
 | HS3  | [Intro](https://www.goldshell.com/hs3-miner-intro/)   |   [firmware-Goldshell-HS3-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.1.2.cpb)   | 
 | HS3-SE  |  [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)  | [firmware-Goldshell-HS3SE-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.1.2.cpb) | 
-| HS-BOX  |  [Intro](https://www.goldshell.com/goldshell-hs-box/)  | [firmware-Goldshell-HSBox-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.2.3.cpb) | 
+| HS-BOX  |  [Intro](https://www.goldshell.com/goldshell-hs-box/)  | [firmware-Goldshell-HSBox-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.2.4.cpb) | 
 
 
 ## Siacoin Miner

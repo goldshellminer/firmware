@@ -55,7 +55,7 @@ Here you can download updated firmware version for goldshell miners.
 |:-------:|:----------------------------------------------------:| :----:  |
 |   CK5   |       [Intro](https://www.goldshell.com/ck5/)        | [firmware-Goldshell-CK5-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.2.3.cpb) | 
 |   CK6   |       [Intro](https://www.goldshell.com/ck6/ )       | [firmware-Goldshell-CK6-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK6-2.2.1.cpb) | 
-| CK-BOX  |      [Intro](https://www.goldshell.com/ckbox/ )      | [firmware-Goldshell-CKBox-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.2.4.cpb) | 
+| CK-BOX  |      [Intro](https://www.goldshell.com/ckbox/ )      | [firmware-Goldshell-CKBox-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.2.3.cpb) | 
 | CK Lite |      [Intro](https://www.goldshell.com/cklite/ )      | [firmware-Goldshell-CKLITE-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKLITE-2.2.8.cpb) | 
 
 

@@ -35,11 +35,12 @@ Here you can download updated firmware version for goldshell miners.
 
 |         |                                            Introduction                                            |                                                                 Download                                                                  | 
 |:-------:|:--------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-|   HS5   |                              [Intro](https://www.goldshell.com/hs5/ )                              |   [firmware-Goldshell-HS5-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.2.1.cpb)   | 
+|   HS6   |                              [Intro](https://www.goldshell.com/goldshell-hs6/ )                    |   [firmware-Goldshell-HS6-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS6-2.2.6.cpb)   | 
+|   HS5   |                              [Intro](https://www.goldshell.com/hs5/ )                              |   [firmware-Goldshell-HS5-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.2.3.cpb)   | 
 |   HS3   |                        [Intro](https://www.goldshell.com/hs3-miner-intro/)                         |   [firmware-Goldshell-HS3-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.1.2.cpb)   | 
 | HS3-SE  |               [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)                | [firmware-Goldshell-HS3SE-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.1.2.cpb) | 
-| HS-BOX  |                             [Intro](https://www.goldshell.com/hsbox/)                              | [firmware-Goldshell-HSBox-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.2.4.cpb) | 
-| HS Lite |                             [Intro](https://www.goldshell.com/hslite/)                              | [firmware-Goldshell-HSLITE-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSLITE-2.2.3.cpb) | 
+| HS-BOX  |                             [Intro](https://www.goldshell.com/hsbox/)                              | [firmware-Goldshell-HSBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.2.5.cpb) | 
+| HS Lite |                             [Intro](https://www.goldshell.com/hslite/)                              | [firmware-Goldshell-HSLITE-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSLITE-2.2.4.cpb) | 
 
 
 ## Siacoin Miner

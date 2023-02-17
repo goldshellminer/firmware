@@ -21,12 +21,12 @@ Here you can download updated firmware version for goldshell miners.
 
 |              |                        Introduction                        |                                                                       Download                                                                        | 
 |:------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   MiniDOGE   |       [Intro](https://www.goldshell.com/minidoge/ )        |    [firmware-Goldshell-MiniDOGE-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.2.4.cpb)    | 
-| MiniDOGE Pro |     [Intro](https://www.goldshell.com/minidoge-pro/ )      | [firmware-Goldshell-MiniDOGEPro-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGEPro-2.2.5.cpb) | 
+|   MiniDOGE   |       [Intro](https://www.goldshell.com/minidoge/ )        |    [firmware-Goldshell-MiniDOGE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.2.5.cpb)    | 
+| MiniDOGE Pro |     [Intro](https://www.goldshell.com/minidoge-pro/ )      | [firmware-Goldshell-MiniDOGEPro-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGEPro-2.2.6.cpb) | 
 |      x5      |          [Intro]( https://www.goldshell.com/x5/ )          |          [firmware-Goldshell-x5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x5-2.1.0.cpb)          | 
 |     x6s      |          [Intro]( https://www.goldshell.com/x6s-litecoin-miner/ )          |        [firmware-Goldshell-x6s-2.0.10.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x6s-2.0.10.cpb)        | 
 |     LT5      |  [Intro]( https://www.goldshell.com/lt5-doge-ltc-miner/ )  |         [firmware-Goldshell-LT5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5-2.1.0.cpb)         | 
-|   LT5 Pro    | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |      [firmware-Goldshell-LT5Pro-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.3.cpb)      | 
+|   LT5 Pro    | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |      [firmware-Goldshell-LT5Pro-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.5.cpb)      | 
 |     LT6      |          [Intro](https://www.goldshell.com/lt6/ )          |         [firmware-Goldshell-LT6-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT6-2.2.1.cpb)         | 
 |   LT Lite    |        [Intro](https://www.goldshell.com/ltlite/ )        |      [firmware-Goldshell-LTLITE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LTLITE-2.2.5.cpb)      | 
 
@@ -58,7 +58,7 @@ Here you can download updated firmware version for goldshell miners.
 |   CK5   |   [Intro](https://www.goldshell.com/ck5/)   |    [firmware-Goldshell-CK5-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.2.4.cpb)    | 
 |   CK6   |  [Intro](https://www.goldshell.com/ck6/ )   |    [firmware-Goldshell-CK6-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK6-2.2.5.cpb)    | 
 | CK6-SE  | [Intro](https://www.goldshell.com/ck6-se/ ) |  [firmware-Goldshell-CK6SE-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK6SE-2.2.4.cpb)  | 
-| CK-BOX  | [Intro](https://www.goldshell.com/ckbox/ )  |  [firmware-Goldshell-CKBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.2.5.cpb)  | 
+| CK-BOX  | [Intro](https://www.goldshell.com/ckbox/ )  |  [firmware-Goldshell-CKBox-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.2.6.cpb)  | 
 | CK Lite | [Intro](https://www.goldshell.com/cklite/ ) | [firmware-Goldshell-CKLITE-2.2.9.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKLITE-2.2.9.cpb) | 
 
 
@@ -80,7 +80,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |         |  Introduction |  Download | 
 |:-------:| :----: | :----:  |
-| LB-BOX  | [Intro](https://www.goldshell.com/lbbox/) | [firmware-Goldshell-LBBox-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LBBox-2.2.3.cpb)| 
+| LB-BOX  | [Intro](https://www.goldshell.com/lbbox/) | [firmware-Goldshell-LBBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LBBox-2.2.5.cpb)| 
 | LB Lite | [Intro](https://www.goldshell.com/lb_lite/) | [firmware-Goldshell-LBLITE-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LBLITE-2.2.3.cpb)| 
 
 ## STC Miner

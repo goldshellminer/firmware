@@ -42,14 +42,16 @@ Here you can download updated firmware version for goldshell miners.
 |   HS5   |                              [Intro](https://www.goldshell.com/hs5/ )                              |   [firmware-Goldshell-HS5-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS5-2.2.5.cpb)   | 
 |   HS3   |                        [Intro](https://www.goldshell.com/hs3-miner-intro/)                         |   [firmware-Goldshell-HS3-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3-2.2.7.cpb)   | 
 | HS3-SE  |               [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)                | [firmware-Goldshell-HS3SE-2.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HS3SE-2.1.2.cpb) | 
-| HS-BOX  |                             [Intro](https://www.goldshell.com/hsbox/)                              | [firmware-Goldshell-HSBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.2.5.cpb) | 
+| HS-BOX  |                             [Intro](https://www.goldshell.com/hsbox/)                              | [firmware-Goldshell-HSBox-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSBox-2.2.6.cpb) | 
+| HS Lite |                             [Intro](https://www.goldshell.com/hslite/)                              | [firmware-Goldshell-HSLITE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-HSLITE-2.2.5.cpb) | 
 
 
 ## Siacoin Miner
 |     |                Introduction                |  Download | 
 |  :----:  |:------------------------------------------:| :----:  |
-| SC-BOX  | [Intro](https://www.goldshell.com/scbox/ ) |  [firmware-Goldshell-SCBox-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-SCBox-2.2.4.cpb)  | 
-| SC-BOXⅡ  | [Intro](https://www.goldshell.com/scbox%e2%85%b1/) |  [firmware-Goldshell-SCBoxⅡ-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-SCBoxⅡ-2.2.1.cpb)  | 
+| SC-BOX  | [Intro](https://www.goldshell.com/scbox/ ) |  [firmware-Goldshell-SCBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-SCBox-2.2.5.cpb)  | 
+| SC-BOXⅡ  | [Intro](https://www.goldshell.com/scbox%e2%85%b1/) |  [firmware-Goldshell-SCBoxⅡ-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-SCBoxⅡ-2.2.2.cpb)  | 
+|  SC6-SE  | [Intro](https://www.goldshell.com/sc6-se/) |   [firmware-Goldshell-SC6SE-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-SC6SE-2.2.2.cpb)   |
 
 ## CKB Miner
 

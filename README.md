@@ -62,7 +62,7 @@ Here you can download updated firmware version for goldshell miners.
 |   CK5   |   [Intro](https://www.goldshell.com/ck5/)   |     [firmware-Goldshell-CK5-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK5-2.2.5.cpb)     | 
 |   CK6   |  [Intro](https://www.goldshell.com/ck6/ )   |     [firmware-Goldshell-CK6-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK6-2.2.6.cpb)     | 
 | CK6-SE  | [Intro](https://www.goldshell.com/ck6-se/ ) |   [firmware-Goldshell-CK6SE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CK6SE-2.2.5.cpb)   | 
-| CK-BOX  | [Intro](https://www.goldshell.com/ckbox/ )  |   [firmware-Goldshell-CKBox-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.2.6.cpb)   | 
+| CK-BOX  | [Intro](https://www.goldshell.com/ckbox/ )  |   [firmware-Goldshell-CKBox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBox-2.2.7.cpb)   | 
 | CK-CKBoxⅡ  | [Intro](https://www.goldshell.com/ckbox%e2%85%b1/)  |   [firmware-Goldshell-CKBoxⅡ-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKBoxⅡ-2.2.2.cpb)   | 
 | CK Lite | [Intro](https://www.goldshell.com/cklite/ ) | [firmware-Goldshell-CKLITE-2.2.10.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-CKLITE-2.2.10.cpb) | 
 
@@ -79,7 +79,7 @@ Here you can download updated firmware version for goldshell miners.
 |   KD6SE    | [Intro](https://www.goldshell.com/goldshell-kd6se/ )  |    [firmware-Goldshell-KD6SE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KD6SE-2.2.7.cpb)    | 
 |   KD-Max   |      [Intro](https://www.goldshell.com/kdmax/ )       |    [firmware-Goldshell-KDMAX-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDMAX-2.2.3.cpb)    | 
 |   KD-BOX   |      [Intro](https://www.goldshell.com/kdbox/ )       |    [firmware-Goldshell-KDBox-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBox-2.2.3.cpb)    |
-| KD-BOX-Pro |    [Intro](https://www.goldshell.com/kdbox-pro/ )     | [firmware-Goldshell-KDBoxPro-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBoxPro-2.2.5.cpb) |
+| KD-BOX-Pro |    [Intro](https://www.goldshell.com/kdbox-pro/ )     | [firmware-Goldshell-KDBoxPro-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBoxPro-2.2.6.cpb) |
 |   KD-BOXⅡ   |      [Intro](https://www.goldshell.com/kdbox%e2%85%b1/ )       |    [firmware-Goldshell-KDBoxⅡ-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-KDBoxⅡ-2.2.6.cpb)    |
  
   

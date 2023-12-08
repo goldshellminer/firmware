@@ -27,9 +27,9 @@ Here you can download updated firmware version for goldshell miners.
 |      x5      |          [Intro]( https://www.goldshell.com/x5/ )          |          [firmware-Goldshell-x5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x5-2.1.0.cpb)          | 
 |     x6s      |          [Intro]( https://www.goldshell.com/x6s-litecoin-miner/ )          |        [firmware-Goldshell-x6s-2.0.10.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x6s-2.0.10.cpb)        | 
 |     LT5      |  [Intro]( https://www.goldshell.com/lt5-doge-ltc-miner/ )  |         [firmware-Goldshell-LT5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5-2.1.0.cpb)         | 
-|   LT5 Pro    | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |      [firmware-Goldshell-LT5Pro-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.6.cpb)      | 
-|     LT6      |          [Intro](https://www.goldshell.com/lt6/ )          |         [firmware-Goldshell-LT6-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT6-2.2.1.cpb)         | 
-|   LT Lite    |        [Intro](https://www.goldshell.com/ltlite/ )        |      [firmware-Goldshell-LTLITE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LTLITE-2.2.7.cpb)      | 
+|   LT5 Pro    | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |      [firmware-Goldshell-LT5Pro-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT5Pro-2.2.7.cpb)      | 
+|     LT6      |          [Intro](https://www.goldshell.com/lt6/ )          |         [firmware-Goldshell-LT6-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LT6-2.2.5.cpb)         | 
+|   LT Lite    |        [Intro](https://www.goldshell.com/ltlite/ )        |      [firmware-Goldshell-LTLITE-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-LTLITE-2.2.8.cpb)      | 
 
 
 

@@ -21,7 +21,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |              |                        Introduction                        |                                                                       Download                                                                        | 
 |:------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   MiniDOGE   |       [Intro](https://www.goldshell.com/minidoge/ )        |    [firmware-Goldshell-MiniDOGE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGE-2.2.7.cpb)    | 
+|   MiniDOGE   |       [Intro](https://www.goldshell.com/minidoge/ )        |    [firmware-Goldshell-MiniDOGE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-&-Litecoin-Miner/Goldshell-MiniDOGE/firmware-Goldshell-MiniDOGE-2.2.7.cpb)    | 
 |   MiniDOGEⅡ   |       [Intro](https://www.goldshell.com/minidoge%e2%85%b1/)        |    [firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb)    | 
 | MiniDOGE Pro |     [Intro](https://www.goldshell.com/minidoge-pro/ )      | [firmware-Goldshell-MiniDOGEPro-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-MiniDOGEPro-2.2.8.cpb) | 
 |      x5      |          [Intro]( https://www.goldshell.com/x5/ )          |          [firmware-Goldshell-x5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/firmware-Goldshell-x5-2.1.0.cpb)          | 

@@ -44,7 +44,7 @@ Here you can download updated firmware version for goldshell miners.
 | HS3-SE  |               [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)                | [firmware-Goldshell-HS3SE-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HS3SE/firmware-Goldshell-HS3SE-2.2.4.cpb) | 
 | HS-BOX  |                             [Intro](https://www.goldshell.com/hsbox/)                              | [firmware-Goldshell-HSBox-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSBox/firmware-Goldshell-HSBox-2.2.6.cpb) | 
 | HS Lite |                             [Intro](https://www.goldshell.com/hslite/)                              | [firmware-Goldshell-HSLITE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSLITE/firmware-Goldshell-HSLITE-2.2.5.cpb) | 
-| HS-BOXⅡ  |                             [Intro](https://www.goldshell.com/goldshell-hs-box-ii/)                              | [firmware-Goldshell-HSBOXⅡ-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSBoxⅡ/firmware-Goldshell-HSBoxⅡ-2.2.6.cpb) | Support idle mode;Support GoldenshellZone APP|
+| HS-BOXⅡ  |                             [Intro](https://www.goldshell.com/goldshell-hs-box-ii/)                              | [firmware-Goldshell-HSBoxⅡ-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSBoxⅡ/firmware-Goldshell-HSBoxⅡ-2.2.6.cpb) | Support idle mode;Support GoldenshellZone APP|
 
 
 ## Siacoin Miner

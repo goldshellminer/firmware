@@ -97,6 +97,13 @@ Here you can download updated firmware version for goldshell miners.
 |  :----:  | :----: | :----:  |:----:  |
 | STC-BOX  | TBD | [firmware-Goldshell-STCBox-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/STC-Miner/firmware-Goldshell-STCBox-2.2.1.cpb)| 
 
+## ALPH Miner
+
+|     |  Introduction |  Download | features | 
+|  :----:  | :----: | :----:  |:----:  |
+| AL-BOX  |[Intro](https://www.goldshell.com/goldshell-al-box/) | [firmware-Goldshell-ALBox-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/firmware-Goldshell-ALBox-2.2.3.cpb)| Support for herominer, humpool and vipor pools.| 
+
+
 
 
 

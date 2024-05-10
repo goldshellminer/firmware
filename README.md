@@ -101,9 +101,13 @@ Here you can download updated firmware version for goldshell miners.
 
 |     |  Introduction |  Download | features | 
 |  :----:  | :----: | :----:  |:----:  |
-| AL-BOX  |[Intro](https://www.goldshell.com/goldshell-al-box/) | [firmware-Goldshell-ALBox-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/firmware-Goldshell-ALBox-2.2.3.cpb)| Support for herominer, humpool and vipor pools.| 
+| AL-BOX |[Intro](https://www.goldshell.com/goldshell-al-box/) | [firmware-Goldshell-ALBox-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/firmware-Goldshell-ALBox-2.2.4.cpb)| Optimize system control| 
 
+## KAS Miner
 
+|     |  Introduction |  Download | features | 
+|  :----:  | :----: | :----:  |:----:  |
+| KAS-BOX  |[Intro](https://www.goldshell.com/goldshell-ka-box/) | [firmware-Goldshell-KABox-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/firmware-Goldshell-KABox-2.2.2.cpb)| Optimize system control| 
 
 
 

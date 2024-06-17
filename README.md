@@ -109,7 +109,8 @@ Here you can download updated firmware version for goldshell miners.
 
 |     |  Introduction |  Download | features | 
 |  :----:  | :----: | :----:  |:----:  |
-| KA-BOX  |[Intro](https://www.goldshell.com/goldshell-ka-box/) | [firmware-Goldshell-KABox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/firmware-Goldshell-KABox-2.2.7.cpb)| Support benchmark self-test function| 
+| KA-BOX  |[Intro](https://www.goldshell.com/goldshell-ka-box/) | [firmware-Goldshell-KABox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABox/firmware-Goldshell-KABox-2.2.7.cpb)| Support benchmark self-test function| 
+| KA-BOX-Pro  |[Intro](https://www.goldshell.com/goldshell-ka-box-pro/) | [firmware-Goldshell-KABoxPro-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABoxPro/firmware-Goldshell-KABoxPro-2.2.1.cpb)| Support benchmark self-test function| 
 
 
 

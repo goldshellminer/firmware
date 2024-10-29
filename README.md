@@ -21,6 +21,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |              |                        Introduction                        |                                                                       Download                                                                        |features | 
 |:------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   E-DG1M  |       [Intro](https://www.goldshell.com/goldshell-e-dg1m/ )        |    [firmware-Goldshell-E-DG1M-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-E-DG1M/firmware-Goldshell-E-DG1M-2.2.2.cpb) |  Optimize over-temperature protection mechanism |
 |   MiniDOGE   |       [Intro](https://www.goldshell.com/minidoge/ )        |    [firmware-Goldshell-MiniDOGE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGE/firmware-Goldshell-MiniDOGE-2.2.7.cpb)    | 
 |   MiniDOGEⅡ   |       [Intro](https://www.goldshell.com/minidoge%e2%85%b1/)        |    [firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEⅡ/firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb)    | 
 |   MiniDOGEⅢ  |       TBD       |    [firmware-Goldshell-MiniDOGEⅢ-2.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEⅢ/firmware-Goldshell-MiniDOGEⅢ-2.2.0.cpb)    |  Applicable to miners with SN codes starting with DOG3|
@@ -110,8 +111,9 @@ Here you can download updated firmware version for goldshell miners.
 
 |     |  Introduction |  Download | features | 
 |  :----:  | :----: | :----:  |:----:  |
-| KA-BOX  |[Intro](https://www.goldshell.com/goldshell-ka-box/) | [firmware-Goldshell-KABox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABox/firmware-Goldshell-KABox-2.2.7.cpb)| Support benchmark self-test function| 
-| KA-BOX-Pro  |[Intro](https://www.goldshell.com/goldshell-ka-box-pro/) | [firmware-Goldshell-KABoxPro-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABoxPro/firmware-Goldshell-KABoxPro-2.2.1.cpb)| Support benchmark self-test function| 
+| E-KA1M  |[Intro](https://www.goldshell.com/goldshell-e-ka1m/) | [firmware-Goldshell-E-KA1M-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-E-KA1M/firmware-Goldshell-E-KA1M-2.2.3.cpb)| Support Solo Kaspa mining pool|
+| KA-BOX  |[Intro](https://www.goldshell.com/goldshell-ka-box/) | [firmware-Goldshell-KABox-2.2.9.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABox/firmware-Goldshell-KABox-2.2.9.cpb)| Support Solo Kaspa mining pool| 
+| KA-BOX-Pro  |[Intro](https://www.goldshell.com/goldshell-ka-box-pro/) | [firmware-Goldshell-KABoxPro-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABoxPro/firmware-Goldshell-KABoxPro-2.2.3.cpb)| Support Solo Kaspa mining pool| 
 
 
 

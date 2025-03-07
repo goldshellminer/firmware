@@ -112,7 +112,8 @@ Here you can download updated firmware version for goldshell miners.
 
 |     |  Download | features | 
 |  :----:  | :----:  |:----:  |
-| AE-BOX | [firmware-Goldshell-AEBox-2.2.10.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBox/firmware-Goldshell-AEBox-2.2.10.cpb)| | 
+| AE-BOX | [firmware-Goldshell-AEBox-2.2.16.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBox/firmware-Goldshell-AEBox-2.2.16.cpb)| Added F2POOL and ZK.WORK default mining pool add buttons; Added hub platform quick jump| 
+| AE-BOX-Pro | [firmware-Goldshell-AEBOXPRO-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBoxPro/firmware-Goldshell-AEBOXPRO-2.2.7.cpb)| Added F2POOL and ZK.WORK default mining pool add buttons; Added hub platform quick jump| 
 
 
 ## KAS Miner

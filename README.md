@@ -112,8 +112,10 @@ Here you can download updated firmware version for goldshell miners.
 
 |     |  Download | features | 
 |  :----:  | :----:  |:----:  |
-| AE-BOX | [firmware-Goldshell-AEBox-2.2.16.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBox/firmware-Goldshell-AEBox-2.2.16.cpb)| Added F2POOL and ZK.WORK default mining pool add buttons; Added hub platform quick jump| 
-| AE-BOX-Pro | [firmware-Goldshell-AEBOXPRO-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBoxPro/firmware-Goldshell-AEBOXPRO-2.2.7.cpb)| Added F2POOL and ZK.WORK default mining pool add buttons; Added hub platform quick jump| 
+| AE-BOX | [firmware-Goldshell-AEBox-2.2.17.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBox/firmware-Goldshell-AEBox-2.2.17.cpb)| Solve the occasional problem of the disappearance of the theoretical computing power curv| 
+| AE-BOX-Pro | [firmware-Goldshell-AEBOXPRO-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBoxPro/firmware-Goldshell-AEBOXPRO-2.2.8.cpb)| Solve the occasional problem of the disappearance of the theoretical computing power curv|
+ | AE-BOXⅡ | [firmware-Goldshell-AEBoxⅡ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBox/firmware-Goldshell-AEBox-2.2.16.cpb)|Solve the occasional problem of the disappearance of the theoretical computing power curv;Added hub platform quick jump| 
+ | E-AE1M | [firmware-Goldshell-E-AE1M-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALEO-Miner/Goldshell-AEBox/firmware-Goldshell-E-AE1M-2.2.2.cpb)|Solve the occasional problem of the disappearance of the theoretical computing power curv| 
 
 
 ## KAS Miner

@@ -126,7 +126,11 @@ Here you can download updated firmware version for goldshell miners.
 | KA-BOX  | [firmware-Goldshell-KABox-2.2.9.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABox/firmware-Goldshell-KABox-2.2.9.cpb)| Support Solo Kaspa mining pool| 
 | KA-BOX-Pro   | [firmware-Goldshell-KABoxPro-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABoxPro/firmware-Goldshell-KABoxPro-2.2.3.cpb)| Support Solo Kaspa mining pool| 
 
+## BYTE
 
+|      |  Download | features | 
+|  :----: | :----:  |:----:  |
+| BYTE | [firmware-Goldshell-BYTE-3.0.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.0.8.cpb)| 
 
 
 

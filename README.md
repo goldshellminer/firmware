@@ -130,7 +130,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |      |  Download | features | 
 |  :----: | :----:  |:----:  |
-| BYTE | [firmware-Goldshell-BYTE-3.0.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.0.8.cpb)| 
+| BYTE | [firmware-Goldshell-BYTE-3.0.9.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.0.9.cpb)| Solve the problem of DOGE card’s computing power occasionally returning to zero|
 
 
 

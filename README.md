@@ -130,7 +130,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |      |  Download | features | 
 |  :----: | :----:  |:----:  |
-| BYTE | [firmware-Goldshell-BYTE-3.0.10.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.0.10.cpb)||
+| BYTE | [firmware-Goldshell-BYTE-3.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.1.2.cpb)|Added flashing light,Optimize WiFi AP mode and STA mode|
 
 
 

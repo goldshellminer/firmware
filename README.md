@@ -107,6 +107,7 @@ Here you can download updated firmware version for goldshell miners.
 |  :----:  | :----:  |:----:  |
 | AL-BOX | [firmware-Goldshell-ALBox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/Goldshell-ALBox/firmware-Goldshell-ALBox-2.2.7.cpb)| Support benchmark self-test function| 
 | AL-BOXⅡ  | [firmware-Goldshell-ALBoxⅡ-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/Goldshell-ALBoxⅡ/firmware-Goldshell-ALBoxⅡ-2.2.1.cpb)|Add KRYPTEX default mining pool addition,Optimize system control|
+| AL-BOXⅢ | [firmware-Goldshell-ALBoxⅢ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/Goldshell-ALBoxⅢ/firmware-Goldshell-ALBoxⅢ-2.2.3.cpb)||
 
 ## ALEO Miner
 

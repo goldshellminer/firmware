@@ -21,7 +21,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |                              |                                                                       Download                                                                        |features | 
 |:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   DGMAX        |    [firmware-Goldshell-DGMAX-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-DGMAX/firmware-Goldshell-DGMAX-2.2.5.cpb) |  Optimize the frequency increase mechanism to reduce the burden on the power grid |
+|   DGMAX        |    [firmware-Goldshell-DGMAX-2.2.16.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-DGMAX/firmware-Goldshell-DGMAX-2.2.16.cpb) |  Optimize WiFi connection stability |
 |   E-DG1M        |    [firmware-Goldshell-E-DG1M-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-E-DG1M/firmware-Goldshell-E-DG1M-2.2.8.cpb) |  Optimize the frequency increase mechanism to reduce the burden on the power grid |
 |   MiniDOGE          |    [firmware-Goldshell-MiniDOGE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGE/firmware-Goldshell-MiniDOGE-2.2.7.cpb)    | 
 |   MiniDOGEⅡ           |    [firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEⅡ/firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb)    | 
@@ -131,7 +131,7 @@ Here you can download updated firmware version for goldshell miners.
 
 |      |  Download | features | 
 |  :----: | :----:  |:----:  |
-| BYTE | [firmware-Goldshell-BYTE-3.1.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.1.2.cpb)|Added flashing light,Optimize WiFi AP mode and STA mode|
+| BYTE | [firmware-Goldshell-BYTE-3.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/BYTE/firmware-Goldshell-BYTE-3.2.0.cpb)|Support XTM subcard,Optimize WiFi connection stability|
 
 
 
